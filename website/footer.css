@@ -1,0 +1,12 @@
+body {
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+    display: grid;
+    background-color: #575757;
+}
+
+.links {
+    margin: 10px;
+    color: black;
+}

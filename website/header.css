@@ -1,0 +1,16 @@
+body {
+    margin: auto;
+    width: 100%;
+    justify-content: center;
+    display: grid;
+    background-color: #f8da7a;
+}
+
+.links {
+    margin: 10px;
+    color: black;
+}
+
+h1 {
+    margin: 5px;
+}
