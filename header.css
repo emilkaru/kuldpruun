@@ -1,16 +1,23 @@
-body {
-    margin: auto;
-    width: 100%;
-    justify-content: center;
-    display: grid;
-    background-color: #f8da7a;
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
 
-.links {
-    margin: 10px;
-    color: black;
+nav ul li {
+    display: inline;
+    margin-right: 20px;
 }
 
-h1 {
-    margin: 5px;
+header {
+    background-color: #e0e0e0;
+    color: #000000;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #343434;
+    font-weight: bold;
 }
